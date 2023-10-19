@@ -19,4 +19,3 @@ console.log(rand)
 while (rand != 10){
     let rand = rand(min, max)
 }
-
